@@ -294,6 +294,7 @@ hasCJKLanguage = true
         lazyLoading = false
         lightTheme = "light"
         darkTheme = "dark"
+        crossorigin="anonymous"
     # Third-party library config
     # 第三方库配置
     [params.page.library]
